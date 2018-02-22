@@ -1,2 +1,2 @@
 # agora
-Citizen platform for government control
+Citizen platform for open discussions and determine common actions 
